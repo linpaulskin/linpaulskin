@@ -1,6 +1,6 @@
 ## Hi, I'm Paul! My interest in web development and design. 
 
-<!--
+
 
 - 🔭 I’m currently working on ...
 No, I'm still university student.
@@ -13,4 +13,4 @@ No, I'm still university student.
 
 - 📫 How to reach me: ...Email(jay920731@gmail.com)
 
--->
+
